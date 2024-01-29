@@ -1,13 +1,8 @@
 [![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
-
 ## Table of Contents: Build your own X
-
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
-
 > *What I cannot create, I do not understand — Richard Feynman.*
-
 It's a great way to learn.
-
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
